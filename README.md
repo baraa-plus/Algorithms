@@ -1,1 +1,1 @@
-# Algorithms
+# Implementaion of the known algorithms.
